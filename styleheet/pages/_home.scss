@@ -7,4 +7,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    .ans {
+        width: 50%;
+        overflow: auto;
+    }
 }

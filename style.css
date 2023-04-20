@@ -10836,4 +10836,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.area .ans {
+  width: 50%;
+  overflow: auto;
 }/*# sourceMappingURL=style.css.map */
